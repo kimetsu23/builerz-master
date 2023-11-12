@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:America/Mexico_City
+X-LIC-LOCATION:America/Mexico_City
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Mexico_City:20230712T123000
+DTEND;TZID=America/Mexico_City:20230712T130000
+DTSTAMP:20230711T151509Z
+ORGANIZER;CN=allan.decamps@hatchworks.com:mailto:allan.decamps@hatchworks.c
+ om
+UID:kgl1te144ou743h1nsim1dgdqg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=jeremygeraldo23@gmail.com;X-NUM-GUESTS=0:mailto:jeremygeraldo23@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=allan.decamps@hatchworks.com;X-NUM-GUESTS=0:mailto:allan.decamps@hatchw
+ orks.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/vbi-oryy-jxf
+X-MICROSOFT-CDO-OWNERAPPTID:1860292621
+CREATED:20230711T151507Z
+DESCRIPTION:<b>Programada por</b>\nGeraldino Geraldo Jaquez\njeremygeraldo2
+ 3@gmail.com\n8496339429\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://mee
+ t.google.com/vbi-oryy-jxf\nOr dial: (MX) +52 55 8421 0898 PIN: 904449402337
+ 1#\nMore phone numbers: https://tel.meet/vbi-oryy-jxf?pin=9044494023371&hs=
+ 7\n\nLearn more about Meet at: https://support.google.com/a/users/answer/92
+ 82720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230711T151507Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Initial Interview  (Geraldino Geraldo Jaquez)
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

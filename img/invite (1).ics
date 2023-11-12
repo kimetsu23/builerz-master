@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:CANCEL
+BEGIN:VEVENT
+DTSTART:20230712T183000Z
+DTEND:20230712T190000Z
+DTSTAMP:20230712T182557Z
+ORGANIZER;CN=allan.decamps@hatchworks.com:mailto:allan.decamps@hatchworks.c
+ om
+UID:kgl1te144ou743h1nsim1dgdqg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=je
+ remygeraldo23@gmail.com;X-NUM-GUESTS=0:mailto:jeremygeraldo23@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=allan.
+ decamps@hatchworks.com;X-NUM-GUESTS=0:mailto:allan.decamps@hatchworks.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/vbi-oryy-jxf
+CREATED:20230711T151507Z
+DESCRIPTION:<b>Programada por</b>\nGeraldino Geraldo Jaquez\njeremygeraldo2
+ 3@gmail.com\n8496339429\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://mee
+ t.google.com/vbi-oryy-jxf\nOr dial: (MX) +52 55 8421 0898 PIN: 904449402337
+ 1#\nMore phone numbers: https://tel.meet/vbi-oryy-jxf?pin=9044494023371&hs=
+ 7\n\nLearn more about Meet at: https://support.google.com/a/users/answer/92
+ 82720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230712T182555Z
+LOCATION:
+SEQUENCE:1
+STATUS:CANCELLED
+SUMMARY:Initial Interview  (Geraldino Geraldo Jaquez)
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
