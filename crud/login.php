@@ -14,11 +14,10 @@ $consulta = $conexion->prepare("SELECT * FROM login WHERE Username = ? AND contr
 
     // Verificar si se encontraron resultados
     if ($resultado->num_rows === 1) {
-        echo "<div class='alert alert-info'>Inicio de sesión exitoso. ¡Bienvenido, $username!</div>";
-
         session_start();
         $_SESSION["username"] = $username; // Almacena el nombre de usuario en la sesión
         header("Location: crudpage.php");
+        echo "<div class='alert alert-info'>Inicio de sesión exitoso. ¡Bienvenido, $username!</div>";
     } else {
         echo "<div class='alert alert-info-danger'>Error</div>";
     }

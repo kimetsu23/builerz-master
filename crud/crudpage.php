@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -44,7 +47,6 @@
         ?>
 
 <?php
-session_start();
 
 if (!isset($_SESSION["username"])) {
     // Si no hay un usuario en la sesión, redirige a la página de inicio de sesión
